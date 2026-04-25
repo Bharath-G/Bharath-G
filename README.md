@@ -22,7 +22,7 @@
 
 - 🔭 Currently building **event-driven microservices** with Spring Boot & Apache Kafka
 - 🌱 Deepening expertise in **distributed systems**, **message-driven architecture**, and **cloud-native development**
-- 🧩 Experienced in designing **REST APIs** and exploring **GraphQL** for flexible data querying
+- 🧩 Experienced in designing **REST APIs** and **GraphQL** for flexible data querying
 - 💡 I learn best by building - every project here is a hands-on exploration
 - 🎯 Goal: Design scalable, resilient backend systems that handle real-world workloads
 - 📍 Based in Tamil Nadu, India
