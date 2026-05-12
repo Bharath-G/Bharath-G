@@ -16,6 +16,7 @@
   </a>
 </p>
 
+
 ---
 
 ## 🚀 About Me
@@ -25,7 +26,7 @@
 - 🧩 Experienced in designing **REST APIs** and **GraphQL** for flexible data querying
 - 💡 I learn best by building - every project here is a hands-on exploration
 - 🎯 Goal: Design scalable, resilient backend systems that handle real-world workloads
-- 📍 Based in Tamil Nadu, India
+- 📍 Based in Chennai, Tamil Nadu, India
 
 ---
 
